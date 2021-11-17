@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @jtfrench23
-- 👀 I’m interested in ... Apple app development, game development, general programming
-- 🌱 I’m currently learning ... Swift and xcode
-- 💞️ I’m looking to collaborate on ...iphone apps
+- 👀 I’m interested in ... Web Development, IOS app development, game development, general programming
+- 🌱 I’m currently learning ... HTML, CSS, Javascript
+- 💞️ I’m looking to collaborate on ...web pages and iphone apps
 
 
 <!---
