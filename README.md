@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @jtfrench23
 - 👀 I’m interested in ... Web Development, IOS app development, game development, general programming
-- 🌱 I’m currently learning ... React and React Native
-- 💞️ I’m looking to collaborate on ...web pages/apps, iphone apps
-- I am familiar with HTML5, CSS, Javascript, MySQL, Python, Flask, and Django
+- 🌱 I’m currently learning ... React Native
+- 💞️ I’m looking to collaborate on ...web pages/apps, ios apps
+- I am familiar with HTML5, CSS, Javascript, MySQL, Python, Flask, Django, React, Cdev, SQLAlchemy
 
 
 <!---
