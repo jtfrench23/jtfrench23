@@ -2,7 +2,7 @@
 - I’m interested in ... Web Development, IOS app development, and game development
 - I’m currently learning ... React Native and MERN
 - I’m looking to collaborate on ...web pages/apps, ios apps
-- I am familiar with Python, Javascript, MySQL, Flask, Django, React, Cdev, SQLAlchemy, HTML5, CSS
+- I am familiar with Python, Javascript, MySQL, Flask, Django, React, Cdev, SQLAlchemy, HTML5, CSS, MUI, Bootstrap
 
 
 <!---
